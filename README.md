@@ -94,7 +94,7 @@ I ran a version just trying to predict a given worm as being a mutation or not. 
 
 * code
     * notebooks
-        * [01_Recording_Worm_Centers](./code/notebooks/01_Reordering_Worm_Centers.ipynb)
+        * [01_Recording_Worm_Centers](./code/notebooks/01_Recording_Worm_Centers.ipynb)
         * [02_Image Cropping_and_ImageAI](./code/notebooks/02_Image_Cropping_and_ImageAI.ipynb)
         * [03_Sorting_Worms](./code/notebooks/03_Sorting_Worms.ipynb)
         * [04_Getting_Distances](./code/notebooks/04_Getting_Distances.ipynb)
